@@ -1,0 +1,16 @@
+{
+  "name": "magis-live-stremio",
+  "version": "1.1.0",
+  "description": "Magis Live Stremio addon for Render",
+  "main": "addon.js",
+  "scripts": {
+    "start": "node addon.js"
+  },
+  "dependencies": {
+    "stremio-addon-sdk": "^1.6.10",
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
